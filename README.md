@@ -7,3 +7,5 @@
 ![alt text](https://udemy-images.udemy.com/course/750x422/1623122_9953.jpg)
 
 [Click here](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c01/) to preview the course on Udemy.
+
+Reference: [Stephane Maarek](https://www.udemy.com/user/stephane-maarek/)

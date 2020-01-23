@@ -2,4 +2,4 @@
 
 ## This content is based on the Udemy course by Stephane Maarek titled Ultimate AWS Certified Solutions Architect Associate 2020.
 
-![alt text](https://cloudacademy.com/wp-content/uploads/2017/02/1898062_769c_2.jpg)
+![alt text](https://udemy-images.udemy.com/course/750x422/1623122_9953.jpg)
